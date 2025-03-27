@@ -20,7 +20,7 @@ function detectLanguage() {
 }
 
 // 베이스 URL 설정
-const baseUrl = '/bs/web/ex/'; // 호스팅할 때는 / 만
+const baseUrl = '/'; // 호스팅할 때는 / 만
 
 // 언어에 따른 페이지 리다이렉트 함수
 function redirectToLanguagePage(lang) {
